@@ -6,63 +6,6 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
-    "width" : 2886,
-    "id" : "https://iiif-test.github.io/test-2/images/Screenshot2021-08-10at21.32.56/canvas/",
-    "label" : {
-      "none" : [ "Screenshot2021-08-10at21.32.56" ]
-    },
-    "type" : "Canvas",
-    "items" : [ {
-      "id" : "https://iiif-test.github.io/test-2/images/Screenshot2021-08-10at21.32.56/AnnoPage/",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "motivation" : "Painting",
-        "id" : "https://iiif-test.github.io/test-2/images/Screenshot2021-08-10at21.32.56/annotation/",
-        "type" : "Annotation",
-        "body" : {
-          "service" : [ {
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 91,
-              "height" : 53
-            }, {
-              "width" : 181,
-              "height" : 105
-            }, {
-              "width" : 361,
-              "height" : 210
-            }, {
-              "width" : 722,
-              "height" : 419
-            }, {
-              "width" : 1443,
-              "height" : 838
-            }, {
-              "width" : 2886,
-              "height" : 1676
-            } ],
-            "profile" : "http://iiif.io/api/image/2/level0.json",
-            "width" : 2886,
-            "@id" : "https://iiif-test.github.io/test-2/images/Screenshot2021-08-10at21.32.56",
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "height" : 1676
-          } ],
-          "format" : "image/jpeg",
-          "width" : 2886,
-          "id" : "https://iiif-test.github.io/test-2/images/Screenshot2021-08-10at21.32.56/full/full/0/default.jpg",
-          "type" : "Image",
-          "height" : 1676
-        },
-        "target" : "https://iiif-test.github.io/test-2/images/Screenshot2021-08-10at21.32.56/canvas/"
-      } ]
-    } ],
-    "height" : 1676
-  }, {
     "width" : 1648,
     "id" : "https://iiif-test.github.io/test-2/images/JNCE_2021158_34C00002_V01-raw/canvas/",
     "label" : {
