@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 121,
+    "height" : 145
+  }, {
+    "width" : 241,
+    "height" : 289
+  }, {
+    "width" : 482,
+    "height" : 578
+  }, {
+    "width" : 964,
+    "height" : 1156
+  }, {
+    "width" : 1927,
+    "height" : 2312
+  }, {
+    "width" : 3853,
+    "height" : 4623
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3853,
+  "@id" : "https://iiif-test.github.io/test-2/images/Frencelius-1599-R2054-7-01",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4623
+}
